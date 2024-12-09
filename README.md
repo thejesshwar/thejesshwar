@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋
+I'm currently pursuing a degree on Artificial Intelligence from IIT Kharagpur.
+I'm learning CV, ML and related domains
+I'm looking to work on projects involving python.
+You could reach me at thejesshwarmb@gmail.com
 
 <!--
 **thejesshwar/thejesshwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
