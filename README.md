@@ -1,6 +1,6 @@
 ## Hi 👋
 I'm currently pursuing a degree on Artificial Intelligence from IIT Kharagpur.
-I'm learning CV, ML and related domains
+I'm learning CV, ML and related domains.
 I'm looking to work on projects involving python.
 You could reach me at thejesshwarmb@gmail.com
 
